@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/timsakai/CombineParts/refs/heads/main/preaseIgone_packing/CombinePartsDescription/thumbnail.png?token=GHSAT0AAAAAAC2DRIPSITZIH6BEFTJ5TH2CZZ6ZHUA" alt="サムネ" title="サムネ">
+<img src="https://imgur.com/a/rtH2lvS" alt="サムネ" title="サムネ">
 # 説明
 blender 4.2 向けアドオン。
 fbx出力時など、肥大化しがちなオブジェクト(ノード)数を削減するスクリプト。
