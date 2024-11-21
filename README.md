@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/rtH2lvS" alt="サムネ" title="サムネ">
+<img src="https://i.imgur.com/QCpbkU7.png" alt="サムネ" title="サムネ">
 # 説明
 blender 4.2 向けアドオン。
 fbx出力時など、肥大化しがちなオブジェクト(ノード)数を削減するスクリプト。
@@ -17,7 +17,7 @@ Unityなどで、ドローコールが増えてしまう原因となる複雑な
 
 3. CombineParts > "Run Combine" で、"Parts"内のオブジェクトを結合します。
 　"Parts_combined" という名前で保存されます。
-<img src="https://raw.githubusercontent.com/timsakai/CombineParts/refs/heads/main/preaseIgone_packing/CombinePartsDescription/InstallUsage.png?token=GHSAT0AAAAAAC2DRIPTUHJGY7U5DCPINL6KZZ6ZG5A" alt="説明" title="説明">
+<img src="https://i.imgur.com/uPuchnY.png" alt="説明" title="説明">
 # 仕様
 - Mirrorモディファイア付きオブジェクトは、"Parts_mirror_combined"という名前で分割、Mirrorモディファイアを非適用で保存されます。
 
